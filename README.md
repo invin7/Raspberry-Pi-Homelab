@@ -60,7 +60,7 @@ flowchart TD
 
 | Category | Technology |
 |----------|------------|
-| Operating System | Raspberry Pi OS (64-bit) |
+| Operating System | Debian GNU/Linux 13 (Trixie) |
 | Web Server | Apache |
 | Database | MariaDB |
 | PHP | PHP 8.4 |
