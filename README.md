@@ -2,7 +2,7 @@
 
 A self-hosted homelab built on a Raspberry Pi 5 to explore Linux system administration, networking, storage management, containerization, and self-hosting.
 
-The server provides private cloud storage, media streaming, secure password management, and remote access while running entirely on a headless Raspberry Pi OS installation. Data is stored on a Samsung T7 external SSD, and services are managed using a combination of native Linux services and Docker Compose.
+The server hosts services for private cloud storage, media streaming, and secure password management while providing secure remote access over Tailscale. It runs on a headless Debian 13 (Trixie) installation on a Raspberry Pi 5, with all data stored on an external Samsung T7 SSD.
 
 ---
 
@@ -52,7 +52,7 @@ flowchart TD
 |-----------|---------------|
 | SBC | Raspberry Pi 5 |
 | Storage | Samsung T7 Portable SSD (500 GB) |
-| OS | Raspberry Pi OS (64-bit, Headless) |
+| OS | Debian GNU/Linux 13 (Trixie) |
 
 ---
 
