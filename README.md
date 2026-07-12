@@ -98,15 +98,6 @@ This project provided hands-on experience with:
 
 ---
 
-## Future Improvements
-
-- Add automated backups
-- Configure HTTPS using a reverse proxy
-- Add monitoring with Grafana and Prometheus
-- Automate deployments with Ansible
-- Implement container health monitoring
-
----
 
 ## Repository
 
