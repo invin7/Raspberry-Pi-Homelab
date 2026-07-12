@@ -2,7 +2,7 @@
 
 A self-hosted homelab built on a Raspberry Pi 5 to explore Linux system administration, networking, storage management, containerization, and self-hosting.
 
-The server hosts several self-managed services-including private cloud storage, media streaming, and password management—while providing secure remote access through Tailscale. It runs on a headless Debian 13 (Trixie) installation with all application data stored on an external Samsung T7 SSD.
+The server hosts several self-managed services-including private cloud storage, media streaming, and password management-while providing secure remote access through Tailscale. It runs on a headless Debian 13 (Trixie) installation with all application data stored on an external Samsung T7 SSD.
 
 ---
 
