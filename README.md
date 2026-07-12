@@ -8,7 +8,7 @@ The server hosts several self-managed services-including private cloud storage, 
 
 ## Motivation
 
-I built this project to gain hands-on experience with Linux system administration, networking, storage management, and self-hosting. It also gave me an opportunity to consolidate commonly used services—such as cloud storage, media streaming, and password management-on a single low-power server while learning how to deploy, configure, and maintain them in a real-world environment.
+I built this project to gain hands-on experience with Linux system administration, networking, storage management, and self-hosting. It also gave me an opportunity to consolidate commonly used services—such as cloud storage, media streaming, and password management on a single low-power server while learning how to deploy, configure, and maintain them in a real-world environment.
 
 ---
 
